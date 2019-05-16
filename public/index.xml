@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Standifer</title>
+    <link>/</link>
+    <description>Recent content on Tom Standifer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2019 10:20:56 -0400</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Article Name 3</title>
+      <link>/post/my-article-name-3/</link>
+      <pubDate>Wed, 15 May 2019 10:20:56 -0400</pubDate>
+      
+      <guid>/post/my-article-name-3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Article Name 2</title>
+      <link>/post/my-article-name-2/</link>
+      <pubDate>Wed, 15 May 2019 10:20:41 -0400</pubDate>
+      
+      <guid>/post/my-article-name-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Article Name</title>
+      <link>/post/my-article-name/</link>
+      <pubDate>Wed, 15 May 2019 10:20:20 -0400</pubDate>
+      
+      <guid>/post/my-article-name/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test 4</title>
+      <link>/project/test-4/</link>
+      <pubDate>Wed, 15 May 2019 09:07:57 -0400</pubDate>
+      
+      <guid>/project/test-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test 3</title>
+      <link>/project/test-3/</link>
+      <pubDate>Wed, 15 May 2019 09:07:44 -0400</pubDate>
+      
+      <guid>/project/test-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>/project/test-2/</link>
+      <pubDate>Wed, 15 May 2019 09:06:48 -0400</pubDate>
+      
+      <guid>/project/test-2/</guid>
+      <description>&lt;p&gt;Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Project</title>
+      <link>/project/test-project/</link>
+      <pubDate>Wed, 15 May 2019 08:57:09 -0400</pubDate>
+      
+      <guid>/project/test-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
