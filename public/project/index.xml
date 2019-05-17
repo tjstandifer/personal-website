@@ -12,38 +12,38 @@
     
     
     <item>
-      <title>Test 4</title>
-      <link>/project/test-4/</link>
+      <title>Lima</title>
+      <link>/project/lima/</link>
       <pubDate>Wed, 15 May 2019 09:07:57 -0400</pubDate>
       
-      <guid>/project/test-4/</guid>
+      <guid>/project/lima/</guid>
       <description>Here is some sample text.</description>
     </item>
     
     <item>
-      <title>Test 3</title>
-      <link>/project/test-3/</link>
+      <title>Los Angeles</title>
+      <link>/project/los-angeles/</link>
       <pubDate>Wed, 15 May 2019 09:07:44 -0400</pubDate>
       
-      <guid>/project/test-3/</guid>
+      <guid>/project/los-angeles/</guid>
       <description>Here is some sample text.</description>
     </item>
     
     <item>
-      <title>Test 2</title>
-      <link>/project/test-2/</link>
+      <title>Cusco</title>
+      <link>/project/cusco/</link>
       <pubDate>Wed, 15 May 2019 09:06:48 -0400</pubDate>
       
-      <guid>/project/test-2/</guid>
+      <guid>/project/cusco/</guid>
       <description>Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text. Here is some sample text.</description>
     </item>
     
     <item>
-      <title>Test Project</title>
-      <link>/project/test-project/</link>
+      <title>Ann Arbor</title>
+      <link>/project/ann-arbor/</link>
       <pubDate>Wed, 15 May 2019 08:57:09 -0400</pubDate>
       
-      <guid>/project/test-project/</guid>
+      <guid>/project/ann-arbor/</guid>
       <description>Here is some sample text.</description>
     </item>
     

@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-##### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac.
+##### Curated content for curious minds. 

@@ -4,11 +4,11 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Tom Standifer"
-subtitle = "Here's a subtitle"
+title = ""
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -37,7 +37,7 @@ subtitle = "Here's a subtitle"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,7 +46,7 @@ subtitle = "Here's a subtitle"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  #  color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -65,4 +65,8 @@ subtitle = "Here's a subtitle"
  
  # CSS class.
  css_class = ""
+
+ [design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
 +++
